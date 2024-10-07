@@ -39,4 +39,4 @@
 * **Github:**[![](https://img.shields.io/badge/[name-github]-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/hukaiems) 
 
 |MSSV|Họ tên|Mã lớp|Email|Github|
-|22520970|Lê Cao Nguyên|CS114.P11|22520970@gm.uit.edu.vn|https://github.com/hukaiems|
+|22520970|Lê Cao Nguyên|CS114.P11|22520970@gm.uit.edu.vn|https://github.com/hukaiems |
